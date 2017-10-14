@@ -43,5 +43,5 @@ function counting() {
 cnt++;
 alert(cnt);
 
-}
+}.
 
